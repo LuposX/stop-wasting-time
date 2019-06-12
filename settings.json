@@ -1,0 +1,7 @@
+{
+	"timeout_time": 10,
+	"website_filter": ["youtube", "reddit"],
+	"time_frequency_popup": 20,
+	"time_kill_firefox": 40,
+	"name_of_audio": "just_do_it.wav"
+}
