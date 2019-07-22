@@ -1,2 +1,3 @@
-# stop-wasting-time
-python script thats closes your broweser when you waste to much time online
+# Stop wasting your time
+Is a litle fun project from me to help to stop wasting my time and be more productive.
+I don't actively maintain this project.
