@@ -7,4 +7,4 @@ I used the programming language python in combination with the libaries:
 - [playsound](https://pypi.org/project/playsound/) 
 - [psutil](https://pypi.org/project/psutil/)
 - win32api
--tkinter
+- tkinter
