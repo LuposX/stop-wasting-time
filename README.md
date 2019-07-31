@@ -8,3 +8,6 @@ I used the programming language python in combination with the libaries:
 - [psutil](https://pypi.org/project/psutil/)
 - win32api
 - tkinter
+
+# License
+stop-wasting-time is open-source and Apache License 2.0 licensed. Feel free to browse the repository, learn and reuse parts in your own projects.
